@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(56, 52, 52);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+.container{
+    margin-top: 20vh;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
